@@ -1,0 +1,32 @@
+_repo: The-Young-Gentleman-and-Lady-s-Monitor-and-English-Teacher-s-Assistant--13-Being-a-collection__13588
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, John Hamilton
+    alias: Moore, J. Hamilton (John Hamilton)
+    birthdate: 1738
+    deathdate: 1807
+    gutenberg_agent_id: '5142'
+    url: http://www.gutenberg.org/2009/agents/5142
+description: ''
+gutenberg_issued: '2004-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Youth -- Conduct of life'
+- !lcc 'BJ'
+title: "The Young Gentleman and Lady's Monitor, and English Teacher's Assistant\r\n\
+  Being a collection of select pieces from our best modern writers, calculated to\
+  \ eradicate vulgar prejudices and rusticity of manners, improve the understanding,\
+  \ rectify the will, purify the passions, direct the minds of youth to the pursuit\
+  \ of proper objects, and to facilitate their reading, writing, and speaking the\
+  \ English language with elegance and propriety"
+url: http://www.gutenberg.org/ebooks/13588
