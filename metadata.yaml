@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5142'
     url: http://www.gutenberg.org/2009/agents/5142
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13588#The-Young-Gentleman-and-Lady-s-Monitor-and-English-Teacher-s-Assistant--13-Being-a-collection_
 gutenberg_issued: '2004-10-03'
 gutenberg_type: Text
 identifiers:
